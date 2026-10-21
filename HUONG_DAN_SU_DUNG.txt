@@ -1,0 +1,15 @@
+CHEM-MAP TUTOR AI V5 - BẢN ĐỒ KIẾN THỨC TỰ HỌC
+Tác giả giải pháp: Lê Bá Nhẫn - Trường THPT Hòn Đất
+
+1. Mở file CHEM_MAP_TUTOR_AI_V5_So_do_Kien_thuc_Tu_hoc.html trong Chrome/Edge.
+2. Vào Bản đồ tri thức -> chọn một trong bốn chủ đề -> chọn từng nút.
+3. Cuộn xuống phần SỔ TAY TỰ HỌC để đọc: Kiến thức cốt lõi -> Bản chất -> Phương pháp -> Ví dụ -> Lỗi sai -> Tự kiểm tra.
+4. Chọn một phương án ở Tự kiểm tra để xem đáp án đúng và giải thích tức thì. Điểm tự kiểm tra không được cộng vào điểm bài luyện.
+5. Bấm Đánh dấu đã học để lưu tiến độ ngay trên trình duyệt.
+6. Bấm Luyện câu hỏi của nút này để làm ngân hàng câu hỏi đã được giáo viên duyệt đáp án.
+
+Ngân hàng câu hỏi V4: 481 câu sau lọc trùng, giữ nguyên. Nội dung kiến thức mới được viết bổ trợ theo bốn chủ đề Hóa học 10 KNTT, không phải trích nguyên văn SGK. Không có AI trực tuyến trong bản mở trực tiếp; gia sư hoạt động theo gợi ý định sẵn. Vai trò GV/HS không có phân quyền bảo mật.
+
+Dữ liệu cục bộ: trình duyệt lưu lịch sử qua localStorage; sao lưu thường xuyên tại phần giáo viên. Không dùng dữ liệu học sinh thật trong bản thử nghiệm công khai khi chưa bổ sung đăng nhập và quản lý dữ liệu an toàn.
+
+Đối với phát triển Google AI Studio: có thể dùng file 28 bài học JSON đi kèm để làm nguồn dữ liệu kiến thức có cấu trúc; nhập vào dự án rồi kết nối các nút theo id và depends. Không đưa Gemini API key vào file HTML public.
