@@ -1,0 +1,328 @@
+NGUỒN: Phần 2 - Hoá học vô cơ - Chương 9 - Kim loại đặc biệt (13 trang).doc
+Lưu ý: ĐÃ TRÍCH CHỮ - CÔNG THỨC ẢNH VÀ MATHTYPE CÓ THỂ THIẾU
+
+1. Phần 2: HÓA HỌC VÔ CƠ
+
+2. CHƯƠNG 9: KIM LOẠI ĐẶC BIỆT
+
+3. 1. Hóa trị
+
+4. a. Quên Cr phản ứng khi nào sinh ra sản phẩm hóa trị (II), (III), và (IV)
+
+5. b. Quên Sn phản ứng khi nào sinh ra sản phẩm hóa trị (II) và (IV)
+
+6. 2. Tính lưỡng tính
+
+7. a. Nhầm lẫn tính lưỡng tính giữa các oxit, hiđroxit của Crom
+
+8. CrO: oxit bazơ
+
+9. : Oxit lưỡng tính, tan trong axit và kiềm đặc
+
+10. : Hiđroxit axit
+
+11. : Hiđroxit lưỡng tính
+
+12. b. Nhầm lẫn tính lưỡng tính giữa các oxit, hiđroxit của kẽm
+
+13. ZnO: oxit lưỡng tính
+
+14. : hiđroxit lưỡng tính
+
+15. 3. Tạo phức
+
+16. Hiđroxit và muối ít tan của một số kim loại đặc biệt (Cu, Ni, Zn, Ag) có khả năng bị hòa tan bởi dung dịch amoniac
+
+17. không bị hòa tan bởi dung dịch amoniac
+
+18. 4. Cromat và đicromat
+
+19. Nhầm lẫn màu của muối đicromat và cromat
+
+20. Da cam	Vàng
+
+21. Muối đicromat bền trong môi trường axit
+
+22. Muối cromat bền trong môi trường bazơ
+
+23. B. PHÂN TÍCH
+
+24. LỖI SAI 48: HÓA TRỊ CỦA CROM VÀ THIẾC
+
+25. Lí thuyết:
+
+26. Quên Cr phản ứng khi nào sinh ra sản phẩm hóa trị (II), (III), và (IV)
+
+27. Quên Sn phản ứng khi nào sinh ra sản phẩm hóa trị (II) và (IV).
+
+28. Ví dụ 1: Cho các phương trình phản ứng hóa học sau:
+
+29. Số phản ứng đúng là
+
+30. A.4	B.3	C.2	D.5
+
+31. Hướng dẫn giải
+
+32. (a) sai vì
+
+33. (b) sai vì
+
+34. (c) sai vì
+
+35. (d) đúng
+
+36. (e) sai vì
+
+37. (f) đúng
+
+38. Có 2 phản ứng đúng  Đáp án C
+
+39. Lỗi sai
+
+40. Ví dụ 2: Cho sơ đồ phản ứng
+
+41. Chất X,Y trong sơ đồ trên là:
+
+42. A.CrO, 	B. 	C., 	D. CrO,
+
+43. Hướng dẫn giải
+
+44. X
+
+45. Y
+
+46. Đáp án B.
+
+47. Lỗi sai
+
+48. Thử thách bạn
+
+49. Câu 1: Cho sơ đồ phản ứng:
+
+50. Biết X, Y là hợp chất của Crom. Hai chất x và Y lần lượt là
+
+51. A. và  		B. và
+
+52. C. và  			D.
+
+53. Câu 2: Cho m gam hỗn hợp bột X gồm ba kim loại Zn, Cr, Sn có số mol bằng nhau tác dụng hết với lượng dư dung dịch HCl loãng, nóng thu được dung dịch Y và khí . Cô cạn dung dịch Y thu được 8,98 gam muối khan. Nếu cho m gam hỗn hợp X tác dụng hoàn toàn với (dư) thì thể tích khí (đktc) phản ứng là:
+
+54. A. 0,784 lít. 	B. 1,008 lít. 	C. 0,672 lít. 	D. 0,896 lít
+
+55. LỖI SAI 49: TÍNH LƯỠNG TÍNH
+
+56. Lí thuyết:
+
+57. Nhầm lẫn tính lưỡng tính giữa các oxit, hiđroxit của Crom
+
+58. CrO: oxit bazơ
+
+59. : oxit lưỡng tính, tan trong axit và kiềm đặc
+
+60. : oxit axit
+
+61. : hiđroxit lưỡng tính
+
+62. Nhầm lẫn tính lưỡng tính giữa các oxit, hiđroxit của kẽm
+
+63. ZnO: oxit lưỡng tính
+
+64. : hiđroxit lưỡng tính
+
+65. Ví dụ : Cho dãy các chất: . Số chất trong dãy có tính chất lưỡng tính là:
+
+66. A.5	B.2	C.3	D.4
+
+67. Hướng dẫn giải
+
+68. Có 2 chất có tính lưỡng tính là: và
+
+69. Đáp án B.
+
+70. Lỗi sai
+
+71. Thử thách bạn
+
+72. Câu 3: Có năm dung dịch riêng biệt ,. Cho dung dịch  đến dư vào năm dung dịch trên. Sau khi phản ứng kết thúc, số trường hợp có kết tủa là:
+
+73. A.4	B.2	C.5	D.3
+
+74. Câu 4: Chất nào sau đây vừa phản ứng với dung dịch NaOH loãng, vừa phản ứng với dung dịch HCl?
+
+75. A. 	B. 	C. 	D.
+
+76. Câu 5: Cho dãy các chất: ,. Số chất trong dãy tác dụng được với dung dịch NaOH (đặc, nóng) là:
+
+77. A.5	B.6	C.3	D.4
+
+78. LỖI SAI 50: TẠO PHỨC VỚI
+
+79. Lí thuyết:
+
+80. Hiđroxit và muối ít tan của một số kim loại đặc biệt (Cu, Zn, Ag) có khả năng bị hòa tan bởi dung dịch amoniac loãng
+
+81. Chú ý: không bị hòa tan bởi dung dịch amoniac
+
+82. Ví dụ : Có 4 dung dịch muối riêng biệt: . Nếu thêm dung dịch KOH (dư) rồi thêm tiếp dung dịch (dư) vào 4 dung dịch trên thì số chất kết tủa thu được là:
+
+83. A.2	B.1	C.3	D.4
+
+84. Hướng dẫn giải
+
+85. Sơ đồ phản ứng:
+
+86. Đáp án B
+
+87. Lỗi sai
+
+88. Thử thách bạn
+
+89. Câu 6: Có 4 dung dịch riêng biệt trong 4 ống nghiệm: . Cho dung dịch đến dư vào bốn dung dịch trên. Sau khi các phản ứng kết thúc. Số ống nghiệm có kết tủa là
+
+90. A.2	B.1	C.4	D.3
+
+91. Câu7: Hòa tan hoàn toàn 1,23 gam hỗn hợp X gồm Cu và Al vào dung dịch đặc, nóng thu được 1,344 lít khí (sản phẩm khử duy nhất, ở đktc) và dung dịch Y. Sục từ từ khí dư vào dung dịch Y, sau khi phản ứng xảy ra hoàn toàn thu được m gam kết tủa. Phần trăm về khối lượng của Cu trong hỗn hợp X và giá trị của m lần lượt là
+
+92. A.21,95% và 2,25	B. 78,05% và 2,25	C.21,95% và 0,78	D. 78,05% và 0,78
+
+93. LỖI SAI 51: MUỐI ĐICROMAT VÀ CROMAT
+
+94. Lí thuyết:
+
+95. Nhầm lẫn màu của muối đicromat và cromat
+
+96. Da cam	Vàng
+
+97. Không nhớ được muối đicromat và cromat bền trong môi trường nào.
+
+98. Muối đicromat bền trong môi trường axit
+
+99. Muối cromat bền trong môi trường bazơ
+
+100. Ví dụ: Hiện tượng xảy ra khi nhỏ vài giọt dung dịch vào dung dịch là:
+
+101. A. Dung dịch chuyển từ màu vàng sang không màu.
+
+102. B. Dung dịch chuyển từ màu da cam sang màu vàng.
+
+103. C. Dung dịch chuyển từ màu vàng sang màu da cam.
+
+104. D. Dung dịch chuyển từ không màu sang màu da cam.
+
+105. Hướng dẫn giải
+
+106. Da cam	Vàng
+
+107. Thêm tăng  cân bằng dịch chuyển sang trái  dung dịch chuyển từ màu vàng sang màu da cam.
+
+108. Đáp án C.
+
+109. Lỗi sai
+
+110. Thử thách bạn
+
+111. Câu 8: Khi cho lượng dư dung dịch KOH vào ống nghiệm đựng dung dịch kali đicromat, dung dịch trong ống nghiệm
+
+112. A. Chuyển từ màu da cam sang màu vàng.
+
+113. B. Chuyển từ màu vàng sang màu đỏ.
+
+114. C. Chuyển từ màu da cam sang màu xanh lục.
+
+115. D. Chuyển từ màu vàng sang màu da cam.
+
+116. Câu 9: Cho sơ đồ chuyển hóa giữa các hợp chất của crom:
+
+117. Các chất X, Y, Z, T theo thứ tự là:
+
+118. A.  	B.
+
+119. C. 	C.
+
+120. Hướng dẫn giải bài tập thử thách
+
+121. Câu 1: Đáp án C.
+
+122. X
+
+123. Y
+
+124. Lỗi sai
+
+125. Câu 2: Đáp án B.
+
+126. Sơ đồ phản ứng:
+
+127. Ta có: = 136x +123x+190x = 8,98  x = 0,02
+
+128. 0,02 0,01
+
+129. 0,02 0,015
+
+130. 0,02 0,02
+
+131. = 0,01 + 0,015 + 0,02 = 0,045 mol
+
+132. = 0,045.22,4 = 1,008 lít
+
+133. Lỗi sai
+
+134. Câu 3: Đáp án B
+
+135. Ống nghiệm đựng dung dịch có kết tủa vì:
+
+136. Ống nghiệm đựng dung dịch và không có kết tủa vì:
+
+137. Lỗi sai
+
+138. Câu 4: Đáp án B
+
+139. A sai vì không phản ứng với NaOH
+
+140. B đúng vì:
+
+141. C sai vì không phản ứng với NaOH
+
+142. D sai vì không phản ứng với HCl
+
+143. Lỗi sai
+
+144. Câu 5: Đáp án B
+
+145. Tất cả các chất trên đều phản ứng với NaOH đặc, nóng
+
+146. Có 6 chất tác dụng được với dung dịch NaOH đặc, nóng
+
+147. Lỗi sai
+
+148. Câu 6: Đáp án A
+
+149. Có 2 ống nghiệm có kết tủa: và
+
+150. Lỗi sai
+
+151. Câu 7: Đáp án D
+
+152. Lỗi sai
+
+153. Câu 8: Đáp án A
+
+154. Da cam	Vàng
+
+155. Khi thêm giảm do phản ứng:
+
+156. Cân bằng chuyển dịch sang phải  dung dịch chuyển từ màu da cam sang màu vàng.
+
+157. Lỗi sai
+
+158. Câu 9: Đáp án D
+
+159. X
+
+160. Y
+
+161. Z
+
+162. T
+
+163. Lỗi sai
