@@ -1,0 +1,206 @@
+[
+  {
+    "grade": 10,
+    "chapter": "Cấu tạo nguyên tử",
+    "lesson": "Nguyên tử",
+    "kind": "mcq",
+    "difficulty": "NB",
+    "stem": "Nguyên tử trung hòa có số hiệu nguyên tử Z = 11 có bao nhiêu electron?",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "22"
+    },
+    "answer": "B",
+    "explanation": "Nguyên tử trung hòa có số electron bằng số proton, bằng Z = 11.",
+    "nls_tags": []
+  },
+  {
+    "grade": 10,
+    "chapter": "Cấu tạo nguyên tử",
+    "lesson": "Nguyên tử",
+    "kind": "mcq",
+    "difficulty": "TH",
+    "stem": "Nguyên tử ²⁴₁₂Mg có số neutron bằng bao nhiêu?",
+    "options": {
+      "A": "12",
+      "B": "24",
+      "C": "36",
+      "D": "10"
+    },
+    "answer": "A",
+    "explanation": "Số neutron N = A − Z = 24 − 12 = 12.",
+    "nls_tags": []
+  },
+  {
+    "grade": 10,
+    "chapter": "Liên kết hóa học",
+    "lesson": "Liên kết ion",
+    "kind": "mcq",
+    "difficulty": "TH",
+    "stem": "Kiểu liên kết chủ yếu trong tinh thể NaCl là gì?",
+    "options": {
+      "A": "Liên kết cộng hóa trị không cực",
+      "B": "Liên kết hydrogen",
+      "C": "Liên kết ion",
+      "D": "Liên kết kim loại"
+    },
+    "answer": "C",
+    "explanation": "Na nhường electron tạo Na⁺, Cl nhận electron tạo Cl⁻; các ion trái dấu hút nhau.",
+    "nls_tags": []
+  },
+  {
+    "grade": 10,
+    "chapter": "Phản ứng oxi hóa – khử",
+    "lesson": "Số oxi hóa",
+    "kind": "mcq",
+    "difficulty": "VD",
+    "stem": "Trong hợp chất KMnO₄, số oxi hóa của Mn là bao nhiêu?",
+    "options": {
+      "A": "+2",
+      "B": "+4",
+      "C": "+6",
+      "D": "+7"
+    },
+    "answer": "D",
+    "explanation": "(+1) + x + 4(−2) = 0 nên x = +7.",
+    "nls_tags": []
+  },
+  {
+    "grade": 11,
+    "chapter": "Cân bằng hóa học",
+    "lesson": "Chuyển dịch cân bằng",
+    "kind": "mcq",
+    "difficulty": "TH",
+    "stem": "Với hệ N₂(g) + 3H₂(g) ⇌ 2NH₃(g), tăng áp suất ở nhiệt độ không đổi làm cân bằng chuyển dịch theo chiều nào?",
+    "options": {
+      "A": "Chiều nghịch",
+      "B": "Chiều thuận",
+      "C": "Không chuyển dịch",
+      "D": "Không đủ dữ kiện"
+    },
+    "answer": "B",
+    "explanation": "Chiều thuận làm giảm tổng số mol khí từ 4 xuống 2.",
+    "nls_tags": []
+  },
+  {
+    "grade": 11,
+    "chapter": "Cân bằng hóa học",
+    "lesson": "Hằng số cân bằng",
+    "kind": "mcq",
+    "difficulty": "VD",
+    "stem": "Biểu thức Kc của cân bằng N₂(g) + 3H₂(g) ⇌ 2NH₃(g) là biểu thức nào?",
+    "options": {
+      "A": "[N₂][H₂]³/[NH₃]²",
+      "B": "[NH₃]/([N₂][H₂])",
+      "C": "[NH₃]²/([N₂][H₂]³)",
+      "D": "[NH₃]²/[N₂][H₂]"
+    },
+    "answer": "C",
+    "explanation": "Hệ số cân bằng trở thành số mũ trong biểu thức Kc.",
+    "nls_tags": []
+  },
+  {
+    "grade": 11,
+    "chapter": "Nitrogen – Sulfur",
+    "lesson": "Nitric acid",
+    "kind": "mcq",
+    "difficulty": "TH",
+    "stem": "Khi Cu tác dụng với dung dịch HNO₃ loãng, sản phẩm khử nitrogen thường gặp là gì?",
+    "options": {
+      "A": "N₂O₅",
+      "B": "NO",
+      "C": "NH₃",
+      "D": "NO₂ (duy nhất)"
+    },
+    "answer": "B",
+    "explanation": "Phản ứng điển hình: 3Cu + 8HNO₃(loãng) → 3Cu(NO₃)₂ + 2NO + 4H₂O.",
+    "nls_tags": []
+  },
+  {
+    "grade": 11,
+    "chapter": "Hóa học hữu cơ",
+    "lesson": "Hydrocarbon",
+    "kind": "mcq",
+    "difficulty": "NB",
+    "stem": "Công thức phân tử của ethene là gì?",
+    "options": {
+      "A": "C₂H₂",
+      "B": "C₂H₆",
+      "C": "C₂H₄",
+      "D": "CH₄"
+    },
+    "answer": "C",
+    "explanation": "Ethene là alkene đơn giản nhất có công thức C₂H₄.",
+    "nls_tags": []
+  },
+  {
+    "grade": 12,
+    "chapter": "Ester – Lipid",
+    "lesson": "Ester",
+    "kind": "mcq",
+    "difficulty": "NB",
+    "stem": "Chất CH₃COOC₂H₅ thuộc loại hợp chất nào?",
+    "options": {
+      "A": "Ester",
+      "B": "Alcohol",
+      "C": "Aldehyde",
+      "D": "Carboxylic acid"
+    },
+    "answer": "A",
+    "explanation": "CH₃COOC₂H₅ là ethyl acetate, thuộc nhóm ester.",
+    "nls_tags": []
+  },
+  {
+    "grade": 12,
+    "chapter": "Ester – Lipid",
+    "lesson": "Phản ứng thủy phân",
+    "kind": "mcq",
+    "difficulty": "TH",
+    "stem": "Thủy phân CH₃COOC₂H₅ bằng NaOH dư, đun nóng, thu được cặp chất nào?",
+    "options": {
+      "A": "CH₃COOH và C₂H₅OH",
+      "B": "CH₃COONa và C₂H₅OH",
+      "C": "CH₃COONa và CH₃OH",
+      "D": "HCOONa và C₂H₅OH"
+    },
+    "answer": "B",
+    "explanation": "CH₃COOC₂H₅ + NaOH → CH₃COONa + C₂H₅OH.",
+    "nls_tags": []
+  },
+  {
+    "grade": 12,
+    "chapter": "Điện hóa học",
+    "lesson": "Pin điện hóa",
+    "kind": "mcq",
+    "difficulty": "TH",
+    "stem": "Trong pin Zn–Cu hoạt động, tại điện cực Zn xảy ra quá trình nào?",
+    "options": {
+      "A": "Zn²⁺ + 2e → Zn",
+      "B": "Cu → Cu²⁺ + 2e",
+      "C": "Zn → Zn²⁺ + 2e",
+      "D": "Cu²⁺ + 2e → Cu"
+    },
+    "answer": "C",
+    "explanation": "Zn là anode, xảy ra sự oxi hóa: Zn → Zn²⁺ + 2e.",
+    "nls_tags": []
+  },
+  {
+    "grade": 12,
+    "chapter": "Carbohydrate",
+    "lesson": "Glucose",
+    "kind": "mcq",
+    "difficulty": "VD",
+    "stem": "Glucose có công thức phân tử nào?",
+    "options": {
+      "A": "C₁₂H₂₂O₁₁",
+      "B": "C₆H₁₂O₆",
+      "C": "C₆H₆",
+      "D": "C₂H₆O"
+    },
+    "answer": "B",
+    "explanation": "Glucose là monosaccharide có công thức C₆H₁₂O₆.",
+    "nls_tags": []
+  }
+]

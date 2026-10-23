@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "grade": 10,
+      "chapter": "Liên kết hóa học",
+      "lesson": "Liên kết ion",
+      "kind": "mcq",
+      "difficulty": "TH",
+      "stem": "Liên kết trong NaCl thuộc loại nào?",
+      "options": {"A":"Cộng hóa trị", "B":"Ion", "C":"Kim loại", "D":"Hydrogen"},
+      "answer": "B",
+      "explanation": "Lực hút tĩnh điện giữa Na⁺ và Cl⁻ tạo liên kết ion.",
+      "nls_tags": []
+    }
+  ]
+}
