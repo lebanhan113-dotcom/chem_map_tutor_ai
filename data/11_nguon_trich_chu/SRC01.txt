@@ -1,0 +1,458 @@
+NGUỒN: Phần 2 - Hoá học vô cơ - Chương 1 - Nguyên tử_ bảng tuần hoàn các nguyên tố hoá học (14 trang).doc
+Lưu ý: ĐÃ TRÍCH CHỮ - CÔNG THỨC ẢNH VÀ MATHTYPE CÓ THỂ THIẾU
+
+1. Phần 2. HÓA HỌC VÔ CƠ
+
+2. CHƯƠNG 1. NGUYÊN TỬ, BẢNG TUẦN HOÀN CÁC NGUYÊN TỐ HÓA HỌC
+
+3. Cấu hình
+
+4. a. Viết cấu hình electron của ion từ cấu hình electron của nguyên tử:
+
+5. Nhầm lẫn: bỏ electron lần lượt từ mức năng lượng cao xuống thấp
+
+6. Sửa: bỏ electron lần lượt từ phân lớp ngoài cùng vào các phân lớp bên trong
+
+7. Ví dụ:
+
+8. 1. Cấu hình electron của ion Fe2+ :
+
+9. Sai: bỏ 2 electron ở phân lớp 3d6: 1s22s22p63s23p63d44s2
+
+10. Đúng: bỏ 2 electron ở phân lớp 4s2: 1s22s22p63s23p63d6
+
+11. 2. Cấu hình electron của Fe3+:
+
+12. Sai: bỏ 3 electron ở phân lớp 3d6: 1s22s22p63s23p63d34s2
+
+13. Đúng: bỏ 2 electron ở phân lớp 4s2: 1electron ở phân lớp 3d6
+
+14. b. Quên cách viết cấu hình electron của các nguyên tử nguyên tố nhóm B:
+
+15. Bước 1: Điền electron theo thú tự mức năng lượng: 1s2s2p3s3p4s3d4p..
+
+16. Bước 2: Viết lại cấu hình electron theo thứ tự lớp: 1s2s2p3s3p3d4s4p…
+
+17. Ví dụ: 26Fe (Z= 26):
+
+18. Cấu hình electron sai: 1s22s22p63s23p64s23d6
+
+19. Cấu hình electron đúng: 1s22s22p63s23p63d64s2
+
+20. Chú ý: 24Cr: 1s22s22p63s23p63d54s1
+
+21. 29Cu: 1s22s22p63s23p63d104s1
+
+22. Nhóm, chu kì kế tiếp
+
+23. Sự chênh lệch số p trong nguyên tử của X, Y
+
+24. a. X và Y là hai nguyên tố thuộc cùng một chu kì, hai nhóm A liên tiếp
+
+25. Trường hợp 1: X, Y thuộc chu kì: 1, 2, 3: Py – Px =1
+
+26. Trường hợp 2: X, Y thuộc chu kì 4, 5, 6, 7: Py – Px =11
+
+27. b. Hai nguyên tố cùng nhóm A, thuộc hai chu kì kế tiếp
+
+28. Trường hợp 1: X thuộc chu kì 1, 2: Py – Px =8
+
+29. Trường hợp 2: X, Y thuộc chu kì 3, 4: Py – Px =18
+
+30. Nhầm lẫn: thường bỏ quên 2 trường hợp sau
+
+31. Hóa trị
+
+32. Bị nhầm lẫn trong việc lập công thức hóa trị cao nhất của nguyên tố vơi oxi, hidro
+
+33. Không biết mối liên hệ: hóa trị cao nhất của hai nguyên toostrong oxit + hóa trị của nguyên tố đó trong hợp chất với hidro = 8
+
+34. Nguyên tố M thuộc nhóm xA thì:
+
+35. Công thức hợp chất khí với H là: MH8-x ( x = 4 →7)
+
+36. Công thức oxit cao nhất là: M2Ox ( x= 1→7)
+
+37. Quy luật biến đổi
+
+38. Không nhớ định luật tuần hoàn
+
+39. Nhóm
+
+40. Chú ý: Tính khử đặc trưng cho tính kim loại , tính oxi hóa đặc trưng cho tính phi kim
+
+41. Liên kết cộng hóa trị
+
+42. Nhầm lẫn giữa các loại liên kết cộng hóa trị:
+
+43. Cách 1: Dựa vào hiệu độ âm điện
+
+44. Cách 2: Dựa vào định nghĩa
+
+45. 1. Liên kết cộng hóa trị không cực: là liên kết được hình thành giữa hai nguyên  tử mà cặp electron dùng chung không lệch về phía nguyên tử nào
+
+46. 2.  Liên kết cộng hó trị có cực: là liên kết được hình thành giữa hai nguyên tử mà cặp electron dùng chung bị lệch về phía nguyên tử có độ âm điện lớn hơn
+
+47. Hiểu sai về khái niệm không phân cực
+
+48. Phân tử không phân cực là phân tử có tính đối xứng
+
+49. Trong phân tử không phân cực có thể có hai loại liên kết: cộng hóa trị không cực và cộng hóa trị có cực
+
+50. B. PHÂN TÍCH
+
+51. LỖI SAI 11: CẤU HÌNH ELECTRON NGUYÊN TỬ ↔ ION
+
+52. Lý thuyết:
+
+53. Ví dụ 1:  Một ion M3+có tổng số hạt proton, nơtron, electron là 79, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 19. Cấu hình electron của nguyên tử M là:
+
+54. A. [Ar]3d54s1	B. [Ar]3d64s2	C. [Ar]4s23d6	D. [Ar]3d8
+
+55. Hướng dẫn giải
+
+56. Ion M3+ có:
+
+57. Tổng số hạt p, n, e là 79 → p+ n + (e− 3) = 79
+
+58. Số hạt mang điện nhiều hơn số hạt không mang điện là 19 → p + (e − 3) – n =19
+
+59. →
+
+60. → Cấu hình electron của M là [Ar]3d64s2
+
+61. → Đáp án B.
+
+62. Lỗi sai
+
+63. Thử thách bạn
+
+64. Câu 1: Cấu hình electron của Cu2+ và Cr3+ lần lượt là
+
+65. A. [Ar]3d8 và [Ar]3d14s2	B. [Ar]3d74s2 và [Ar]3d3
+
+66. C. [Ar]3d9 và [Ar]3d3		D. [Ar]3d74s2 và [Ar]3d14s2
+
+67. Câu 2: Cấu hình electron của ion X3+ là 1s22s22p63s23p63d6. Trong bảng tuần hoàn các nguyên tố hóa học, nguyên tố X thuộc
+
+68. A. Chu kì 4, nhóm VIIIA	B. Chu kì 4, nhóm IIA 				 	C. Chu kì 3, nhóm VIB		D. Chu kì 4, nhóm VIIIB
+
+69. Câu 3: Nguyên tử của nguyên tố X có tổng số hạt proton, nơtron, electron là 52. Trong hạt nhân nguyên tử X có số hạt không mang điện nhiều hơn số hạt mang điện là 1. Vị trí (chu kì, nhóm) của X trong bảng tuần hoàn các nguyên tố hóa học là:
+
+70. A. Chu kì 3, nhóm VA		B. Chu kì 3, nhóm VIIA			 	C. Chu kì 3, nhóm IIIA		D. Chu kì 3, nhóm VIIIA
+
+71. LỖI SAI 12 : HOÁ TRỊ
+
+72. Lý thuyết:
+
+73. Ví dụ 1: Nguyên tử của nguyên tố X có cấu hình electron lớp ngoài cùng là ns2np4. Trong hợp chất khí của nguyên tố X với hidro, X chiếm 94,12% khối lượng. Phần trăm khối lượng của nguyên tố X trong oxit cao nhât là:
+
+74. A. 50%	B. 25%	C. 60%	D. 40%
+
+75. Hướng dẫn giải
+
+76. X có cấu hình electron lớp ngoài cùng là ns2np4 → X thuộc nhóm VIA→ hợp chất khí của X 	với H là XH2.
+
+77. Trong XH2 , X chiếm 94,12% về khối lượng nên ta có :
+
+78. ( S)
+
+79. Oxit cao nhất của S là SO3→
+
+80. → Đáp án D.
+
+81. Lỗi sai
+
+82. Thử thách bạn
+
+83. Câu 4: Nguyên tố Y là phi kim thuộc chu kì 3, có công thức oxit cao nhất là YO3. Nguyên tố Y tạo với kim loại M hợp chất có công thức MY, trong đó M chiếm 63,64% về khối lượng. Kim loại M là:
+
+84. A. Zn	B. Cu 	C. Mg	D. Fe
+
+85. Câu 5: Công thức phân tử của hợp chất khí tạo bởi nguyên tố R và hidro là RH3. Trong oxit mà R có hóa trị cao nhất thì oxi chiếm 74,07% về khối lượng. Nguyên tố R là:
+
+86. A. S	B. As	C. N	D. P
+
+87. LỖI SAI 13: NHÓM,CHU KÌ KẾ TIẾP
+
+88. Lý thuyết:
+
+89. Ví dụ 1: Hai nguyên tố X và Y cùng thuộc một chu kì trong bảng tuần hoàn các nguyên tố hóa học, X thuộc nhóm IIA, Y thuộc nhóm IIIA, (Zx + Zy = 51). Phát biểu nào sau đây đúng
+
+90. A. Kim loại X không khử được Cu2+ trong dung dịch.
+
+91. B. Hợp chất oxi của X có dạng X2O7.
+
+92. C. Trong nguyên tử nguyên tố X có 25 proton.
+
+93. D. Ở nhiệt độ thường X không khử được H2O.
+
+94. Hướng dẫn giải
+
+95. TH1: Nếu X, Y thuộc chu kì 2, 3
+
+96. TH2: Nếu X, Y thuộc chu kì 4, 5, 6, 7
+
+97. → X là Ca, Y là Ga → B, C, D sai
+
+98. A đúng vì trong dung dịch Ca kết hợp với nước tạo Ca(OH)2
+
+99. → Ca không khử được ion Cu2+ trong dung dịch.
+
+100. → Đáp án A
+
+101. Lỗi sai
+
+102. Thử thách bạn
+
+103. Câu 6: X và Y là hai nguyên tố thuộc cùng một chu kì, hai nhóm A liên tiếp. Số proton của nguyên tử Y nhiều hơn số proton của nguyên tử X. Tổng số hạt proton của nguyên tử X và Y là 33. Nhận xét nào sau đây về X, Y là đúng?
+
+104. A. Đơn chất X là chất khí ở điều kiện thường.
+
+105. B. Độ âm điện của X lớn hơn độ âm điện của Y.
+
+106. C. Lớp ngoài cùng của nguyên tử Y (ở trạng thái cơ bản) có 5 electron.
+
+107. D. Phân lớp ngoài cùng của nguyên tử X (ở trạng thái cơ bản) có 4 electron.
+
+108. Câu 7: X và Y là hai nguyên tố thuộc cùng một phân nhóm chính, hai chu kì liên tiếp. Số proton của nguyên tử Y nhiều hơn số proton của nguyên tử X. Tổng số proton trong nguyên tử X và Y là 32. Nhận xét nào sau đây về X, Y đúng?
+
+109. A. Đơn chất Y là chất khí ở điều kiện thường.
+
+110. B. X có 4 lớp electron ở trạng thái cơ bản.
+
+111. C. Y tác dụng được với nước ở điều kiện bình thường.
+
+112. D. X là kim loại có tính khử trung bình.
+
+113. LỖI SAI 14: LIÊN KẾT CỘNG HÓA TRỊ
+
+114. Lý thuyết:
+
+115. Ví dụ 1: Cho dãy các chất N2, H2, NH3, NaCl, HCl, H2O. Số chất trong dãy mà phân tử chỉ chứa liên kết cộng hóa trị không cực là:
+
+116. A. 3.	B. 3.	C. 5.	D. 2.
+
+117. Hướng dẫn giải
+
+118. Liên kết cộng hóa trị không cực là liên kết được hình thành giữa hai nguyên tử mà cặp 	electron dùng chung không lệch về phía nguyên tử nào.
+
+119. → Các chất mà phân tử chỉ chứa liên kết cộng hóa trị không cực là: N2, H2
+
+120. → Đáp án D.
+
+121. Lỗi sai
+
+122. Thử thách bạn
+
+123. Câu 8: Các chất mà phân tử không phân cực là:
+
+124. A. HBr, CO2, CH4	B. Cl2, CO2, C2H2	C. NH3, Br2, C2H4	D. HCl, Br2, C2H2
+
+125. Câu 9: Dãy gồm các chất phân tử chỉ có liên kết cộng hóa trị phân cực là:
+
+126. A. O2, H2O, NH3	B. H2O, HF, H2S	C. HCl, O3,H2S	D. HF, Cl2, H2O
+
+127. LỖI SAI 15: QUY LUẬT BIẾN ĐỔI
+
+128. Lý thuyết:
+
+129. Không nhớ định luật tuần hoàn
+
+130. *
+
+131. *   Nhóm: Z↑
+
+132. Chú ý: Tính khử đặc trưng cho tính kim loại, tính oxi hóa đặc trưng cho tính phi kim.
+
+133. Ví dụ 1: Các nguyên tố từ Li đến F, theo chiều tăng của điện tích hạt nhân thì:
+
+134. A. Bán kinh nguyên tử tăng, độ âm điện giảm.
+
+135. B. Bán kinh nguyên tử và độ âm điện đều tăng.
+
+136. C. Bán kính nguyên tử giảm, độ âm điện tăng
+
+137. D. Bán kinh nguyên tử và độ âm điện đều giảm.
+
+138. Hướng dẫn giải
+
+139. Từ Li đến F, các nguyên tố thuộc cùng chu kì, điện tích tăng dần thì bán kính nguyên tử giảm, 	độ âm điện tăng.
+
+140. → Đáp án C.
+
+141. Lỗi sai
+
+142. Thử thách bạn
+
+143. Câu 10: Bán kính nguyên tử của các nguyên tố: 3Li, 8O, 9F, 11Na được xếp theo thứ tự tăng dần từ trái sang phải là
+
+144. A. F, O, Li, Na.	B. Na, Li, O, F.	C. F, Li, O, Na.	D. Li,Na,O,F.
+
+145. Câu 11: Dãy nguyên tố sắp xếp theo chiều tăng dần tính phi kim từ trái sang phải là:
+
+146. A. F, O, N, P.	B. N, P,  F, O.	C. P, N, O, F.	D. N, P, O, F.
+
+147. Câu 12: Cho các nguyên tố M ( Z=11), X ( Z=17 ), Y ( Z=9 ) và R ( Z=19 ). Độ âm điện của các nguyên tố tăng dần theo thứ tự:
+
+148. A. Y < Z < M < R	B. R < M < X < Y	C. Y < M < X < R	D. . M < X < R < Y
+
+149. Hướng dẫn giải bài tập thử thách
+
+150. Câu 1: Đáp án C
+
+151. Lỗi sai
+
+152. Câu 2: Đáp án D
+
+153. X3+ : 1s22s22p63s23p63d6 → X: 1s22s22p63s23p63d74s2
+
+154. X có 9 electron hóa trị và electron cuối cùng được điền vào phân lớp d → X thuộc nhóm VIIIB.
+
+155. X có 4 lớp electron → X thuộc chu kì 4
+
+156. Lỗi sai
+
+157. Câu 3: Đáp án B
+
+158. Ta có:
+
+159. → Cấu hình electron của X là : [Ne]3s23p5
+
+160. → X thuộc chi kì 3, nhóm VIIA.
+
+161. Lỗi sai
+
+162. Câu 4: Đáp án D
+
+163. Y có công thức cao nhất là YO3→ Y thuộc nhóm VIA.
+
+164. Mà Y thuộc chu kì 3 → Y là S
+
+165. Trong phân tử MS có:
+
+166. Vậy M là Fe
+
+167. Lỗi sai
+
+168. Câu 5: Đáp án C
+
+169. Hợp chất của nguyên tố R với H là RH3 → R thuộc nhóm VA → oxit mà R có hóa trị cao nhất dạng R2O5. Ta có:
+
+170. → R là Nitơ
+
+171. Lỗi sai
+
+172. Câu 6: Đáp án D
+
+173. X và Y là hai nguyên tố thuộc cùng một chu kì, hai nhóm A liên tiếp
+
+174. TH1. Py−Px = 1 (X, Y thuộc chu kì 2, 3)
+
+175. +  Đơn chất X là chất rắn ở điều kiện thường
+
+176. +  Độ âm điện của Y lớn hơn của X
+
+177. +  Y có electron lớp ngoài cùng bằng 7
+
+178. +  X có phân lớp ngoài cùng bằng 4
+
+179. TH2. Py−Px = 11 (X, Y thuộc chu kì 4, 5, 6, 7)
+
+180. → Loại vì X, Y không thuộc cùng một chu kì
+
+181. Lỗi sai
+
+182. Câu 7: Đáp án C
+
+183. X và Y là hai nguyên tố thuộc cùng một phân nhóm chính, hai chu kì liên tiếp
+
+184. TH1. Py−Px = 8 (X, Y thuộc chu kì 1, 2)
+
+185. +  Đơn chất là chất rắn ở điều kiện thường
+
+186. +  X có 3 lớp electron ở trạng thái cơ bản
+
+187. +  Y tác dụng với nước ở điều kiện thường: Ca + 2H2O → Ca(OH)2 +H2↑
+
+188. +  X thuộc nhóm IIA → X là kim loại có tín khử mạnh
+
+189. TH1. Py−Px = 18 (X, Y thuộc chu kì 3, 4)
+
+190. → Loại vì X, Y không thuộc cùng một nhóm
+
+191. Lỗi sai
+
+192. Câu 8: Đáp án B
+
+193. Đúng vì Cl−Cl ; O = C = O ; CH≡CH là phân tử không phân cực.
+
+194. Chú ý liên kết C = O là liên kết cộng hóa trị phân cực.
+
+195. Lỗi sai
+
+196. Hướng dẫn giải
+
+197. Câu 9: Đáp án B
+
+198. B đúng vì liên kết H với O, H với F, H với S là liên kết cộng hóa trị phân cực
+
+199. Lỗi sai
+
+200. Câu 10: Đáp án A
+
+201. 3Li: 1s22s1→ chu kì 2, nhóm IA
+
+202. 8O: 1s22s22p4 → chu kì 2, nhóm VIA
+
+203. 9F: 1s22s22p5 → chu kì 2, nhóm VIIA
+
+204. 11Na: 1s22s22p63s1 → chu kì 3, nhóm IA
+
+205. → Vị trí các nguyên tố trong bảng tuần hoàn theo sơ đồ sau:
+
+206. IA    VIA VIIA
+
+207. Chu kì 2:	 Li ← O ← F
+
+208. ↓
+
+209. Chu kì 3:	Na
+
+210. Lỗi sai
+
+211. Câu 11: Đáp án C
+
+212. 7N: 1s22s22p3→ chu kì 2, nhóm VA
+
+213. 8O: 1s22s22p4 → chu kì 2, nhóm VIA
+
+214. 9F: 1s22s22p5 → chu kì 2, nhóm VIIA
+
+215. 15P: 1s22s22p63s23p3 → chu kì 3, nhóm VA
+
+216. → Vị trí các nguyên tố trong bảng tuần hoàn theo sơ đồ sau:
+
+217. VA   VIA   VIIA
+
+218. → Trong bảng tuần hoàn, từ dưới lên trên trong một nhóm, từ trái sang phải trong một chu kì tính phi kim tang dần.
+
+219. → Tính phi kim tăng dần: P < N < O < F
+
+220. Lỗi sai
+
+221. Câu 12: Đáp án B
+
+222. M ( Z=11) → M là Na: 1s22s22p63s1	→ Na thuộc chu kì 3, nhóm IA
+
+223. X ( Z=17) → X là Cl: 1s22s22p63s23p5  → Cl thuộc chu kì 3, nhóm VIIA
+
+224. Y ( Z= 9 ) → Y là F: 1s22s22p5 → F thuộc chu kì 2, nhóm VIIA
+
+225. R ( Z=19) → R là K: 1s22s22p63s23p64s1 → K thuộc chu kì 4 nhóm IA
+
+226. → Vị trí các nguyên tố trong bảng tuần hoàn theo sơ đồ sau:
+
+227. → Độ âm điện theo thứ tự tăng dần: K < Na < Cl < F
+
+228. Lỗi sai
