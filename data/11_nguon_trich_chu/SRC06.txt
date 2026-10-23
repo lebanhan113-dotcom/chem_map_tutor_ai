@@ -1,0 +1,352 @@
+NGUỒN: Phần 2 - Hoá học vô cơ - Chương 6 - Kim loại kiềm_ kiềm thổ (16 trang).doc
+Lưu ý: ĐÃ TRÍCH CHỮ - CÔNG THỨC ẢNH VÀ MATHTYPE CÓ THỂ THIẾU
+
+1. Phần 2. HÓA HỌC VÔ CƠ
+
+2. CHƯƠNG 6. KIM LOẠI KIỀM – KIỀM THỔ
+
+3. Phản ứng với nước
+
+4. Kim loại kiềm, kiềm thổ tác dụng với nước ở nhiệt độ thường (trừ Be)
+
+5. Quên rằng:
+
+6. Be không phản ứng với nước.
+
+7. Mg (ở điều kiện thường):
+
+8. ở nhiệt độ cao:
+
+9. Tự phản ứng
+
+10. Đối với các phản ứng hóa học xảy ra trong dung dịch, thường không chú ý tới thứ tự phản ứng:
+
+11. Ví dụ: đối với bài toán:
+
+12. TH1: Cho từ từ H+ vào hỗn hợp  thứ tự phản ứng là:
+
+13. Đầu tiên:  (1)
+
+14. Sau đó:  (2)
+
+15. Hiện tượng: sau một thời gian khi  phản ứng hết ở (1) thì xuất hiện bọt khí ở (2).
+
+16. TH2: cho từ từ hỗn hợp  vào H+ các phản ứng xảy ra đồng thời
+
+17. (1)
+
+18. (2)
+
+19. Hiện tượng: Ngay lập tức xuất hiện bọt khí.
+
+20. Thiếu trường hợp
+
+21. + dung dịch kiền OH-
+
+22. xảy ra (1).
+
+23. xảy ra cả (1) và (2).
+
+24. xảy ra (2)
+
+25. Quên :  chọn phản ứng (2);  chọn phản ứng (1)
+
+26. chỉ chọn (1) hoặc (2) xảy ra →tính toán sai.
+
+27. Thiếu sản phẩm
+
+28. Mg phản ứng với dung dịch HNO3 loãng có thể có NH4NO3
+
+29. Quên: sản phẩm có NH4NO3 → xác định sai lượng chất
+
+30. Phân loại nước cứng
+
+31. Nước cứng: là nước có chứa nhiều ion Ca2+ và Mg2+
+
+32. Nước cứng tạm thời: chứa anion
+
+33. Nước cứng vĩnh cửu: chứa anion Cl-,
+
+34. Nước cứng toàn phần: chứa cả 3 ion trên
+
+35. Quên: Thành phần của các loại nước cứng → chọn sai chất, chọn sai cách làm mềm nước cứng (giảm nồng độ Ca2+, Mg2+)
+
+36. B. PHÂN TÍCH
+
+37. LỖI SAI 34: Đối với các phản ứng hóa học xảy ra trong dung dịch, thường không chú ý tới thứ tự phản ứng:
+
+38. Ví dụ: đối với bài toán:
+
+39. TH1: Cho từ từ H+ vào hỗn hợp   thứ tự phản ứng là:
+
+40. Đầu tiên:  (1)
+
+41. Sau đó:  (2)
+
+42. Hiện tượng: sau một thời gian khi   phản ứng hết ở (1) thì xuất hiện bọt khí ở (2).
+
+43. TH2: cho từ từ hỗn hợp   vào H+ các phản ứng xảy ra đồng thời hai phản ứng theo tỉ lệ của
+
+44. (1)
+
+45. (2)
+
+46. Hiện tượng: Ngay lập tức xuất hiện bọt khí.
+
+47. Ví dụ 1: Dung dịch X chứa hỗn hợp gồm Na2CO3 1m và KHCO3 1,5M. Nhỏ từ từ từng giọt cho đến hết 300ml dung dịch HCl 1M và 200mL dung dịch X, sinh ra V lít khí (đktc). Giá trị của V là:
+
+48. A. 3,36	B. 1,12	C. 2,24	D. 6,72
+
+49. Hướng dẫn giải
+
+50. Khi nhỏ từ từ dung dịch HCl thứ tự phản ứng sẽ là:
+
+51. → mất 0,2 mol H+ ở phản ứng (1) →sau phản ứng (1)
+
+52. → xảy ra phản ứng (2).
+
+53. → theo phương trình phản ứng ta có:
+
+54. →   lít
+
+55. → Đáp án C.
+
+56. Lỗi sai
+
+57. Thử thách bạn
+
+58. Câu 1: Nhỏ từ từ từng giọt đến hết 30mL dung dịch HCl 1M vào 100mL dung dịch chứa Na2CO3 0,2M và NaHCO3 0,2M, sau phản ứng thu được số mol CO2 là
+
+59. A. 0,020.	B. 0,025	C. 0,015	D. 0,010.
+
+60. Câu 2: Nhỏ từ từ 200 mL dung dịch X (K2CO3 và NaHCO3 0,5M) vào 200mL dung dịch HCl 2M thì thể tích khí CO2 thu được là
+
+61. A. 4,480L	B. 5,376L.	C. 6,720L	D. 5,600L
+
+62. LỖI SAI 15: thiếu trường hợp
+
+63. Lý thuyết:  dung dịch kiền OH-
+
+64. xảy ra (1).
+
+65. xảy ra cả (1) và (2).
+
+66. xảy ra (2)
+
+67. Quên :  chọn phản ứng (2);  chọn phản ứng (1)
+
+68. chỉ chọn (1) hoặc (2) xảy ra →tính toán sai.
+
+69. Ví dụ: Hấp thụ hoàn toàn 2,688 lít khí CO2 (ở đktc) vào 2,5 lít dung dịch Ba(OH)2 nồng độ a mol/lít thu được 15,76 gam kết tủa. Giá trị của a là
+
+70. A. 0,032	B. 0,040	C. 0,048	D. 0,080
+
+71. Hướng dẫn giải
+
+72. có hai muối được tạo thành
+
+73. dư
+
+74. → Đáp án B.
+
+75. Lỗi sai
+
+76. Thử thách bạn
+
+77. Câu 3: Hấp thụ hoàn toàn 2,24 lít khí CO2 (đktc) vào 750 mL dung dịch Ba(OH)2 0,2M, cô cạn dung dịch sau phản ứng thu được m gam muối. Giá trị của m là
+
+78. A. 12,95	B. 19,70	C. 39,40	D. 29,55
+
+79. Câu 4: Hấp thụ hoàn toàn 4,48 lít khí CO2 (đktc) vào 500mL dung dịch gồm NaOH 0,1M và Ba(OH)2 0,2M, sinh ra m gam kết tủa. Giá trị của m là
+
+80. A. 19,700	B. 39,400	C. 9,850.	D. 24,625
+
+81. LỖI SAI 36: Phản ứng với nước
+
+82. Lý thuyết :
+
+83. Kim loại kiềm, kiềm thổ tác dụng với nước ở nhiệt độ thường (trừ Be)
+
+84. Quên rằng:
+
+85. Be không phản ứng với nước.
+
+86. Mg (ở điều kiện thường):
+
+87. ở nhiệt độ cao:
+
+88. Ví dụ : Có bao nhiêu kim loại trong dãy Na, Mg, Be, Ba, Ca, Fe có khả năng phản ứng được với nước ở nhiệt độ thường
+
+89. A. 3	B. 4	C. 5	D. 6
+
+90. Hướng dẫn giải
+
+91. Ở nhiệt độ thường chỉ có các kim loại Na, Ba, Ca, Mg (tác dụng chậm) phản ứng với nước ở nhiệt độ thường.
+
+92. → Đáp án B.
+
+93. Lỗi sai
+
+94. Thử thách bạn
+
+95. Câu 5: Cho m gam hỗn hợp X gồm 2 kim loại Na và Be vào nước dư, sau phản ứng thu được 0,56 lít H2 (đktc). Mặt khác nếu cũng cho m gam X tác dụng với dung dịch HCl dư thu được 1,12 lít H2 (đktc). Khối lượng của hỗn hợp X là
+
+96. A. 1,375 gam	B. 1,150 gam	C. 0,225 gam	D. 0,800 gam
+
+97. Câu 6: chất nào sau đây ở điều kiện thường phản ứng chậm với nước, ở nhiệt độ cao phản ứng với nước cho oxit kim loại và giải phóng khí hidro:
+
+98. A. Al.	B. Mg.	C. Fe.	D. Be.
+
+99. LỖI SAI 37: Thiếu sản phẩm
+
+100. Lý thuyết
+
+101. Mg phản ứng với dung dịch HNO3 loãng có thể có NH4NO3
+
+102. Quên: sản phẩm có NH4NO3 → xác định sai lượng chất
+
+103. Ví dụ : Cho 3,6 gam Mg tan trong lượng HNO3 vừa đủ thì không thấy khí thoát ra, cô cạn dung dịch sau phản ứng thu được m gam muối khan. Giá trị của m là
+
+104. A. 25,2.	B. 22,2.	C. 46,2	D. 34,2
+
+105. Hướng dẫn giải
+
+106. Sau phản ứng không thấy có khí thaots ra nên sản phẩm tạo thành chứa muối NH4NO3
+
+107. → Đáp án A.
+
+108. Lỗi sai
+
+109. Thử thách bạn
+
+110. Câu 7: Cho hỗn hợp X gồm 0,15 mol Mg , 0,35 gmol Fe phản ứng với V lít dung dịch HNO3 1M thu được dung dịch Y và hỗn hợp khí gồm 0,035 mol N2O ; 0,1 mol NO và còn lại 2,8 gam kim loại. Giá trị của V là
+
+111. A. 0,75	B. 1,15	C. 1,07	D. 1,52
+
+112. Câu 8: Cho 2,16 gam Mg tác dụng với dung dịch HNO3 (dư). Sau phản ứng xảy ra hoàn toàn thu được 0,896 lít khí NO (đktc) và dung dịch X. Khối lượng muối khan thu được khi cô cạn dung dịch X là
+
+113. A. 8,88 gam	B. 13,92 gam.	C. 15,72 gam.	D. 13,32 gam.
+
+114. LỖI SAI 38: Phân loại nước cứng
+
+115. Lý thuyết
+
+116. Nước cứng: là nước có chứa nhiều ion Ca2+ và Mg2+
+
+117. Nước cứng tạm thời: chứa anion
+
+118. Nước cứng vĩnh cửu: chứa anion Cl-,
+
+119. Nước cứng toàn phần: chứa cả 3 ion trên
+
+120. Quên: Thành phần của các loại nước cứng → chọn sai chất, chọn sai cách làm mềm nước cứng (giảm nồng độ Ca2+, Mg2+)
+
+121. Ví dụ : dãy gồm các chất đều có thể làm mất tính cứng tạm thời của nước là
+
+122. A. HCl, NaOH, Na2CO3	B. NaOH, Na3PO4, NaCO3
+
+123. C. KCl, Ca(OH)2, Na2CO3	D. HCl, Ca(OH)2, Na2CO3
+
+124. Hướng dẫn giải
+
+125. Tính cứng tạm thời của nước là do các muối Ca(HCO3)2, Mg(HCO3)2 gây ra. Các muối NaOH, NaPO4, NA2CO3 khi phản ứng với Ca(HCO3)2, Mg(HCO3)2 đều thu được kết tủa nên có thể làm mất tính cứng tạm thời của nước.
+
+126. → Đáp án B
+
+127. Lỗi sai
+
+128. Thử thách bạn
+
+129. Câu 9: Nước chứa các chất tan sau đây được xem là nước cứng vĩnh cửu.
+
+130. A. Ca(HCO3)2, CaCl2	 	B. CaSO4, MgCl2
+
+131. C. Ca(HCO3)2, Mg(HCO3)2	D. CaSO4, Mg(HCO3)2
+
+132. Câu 10: một cốc nước chứa các ion: Na+ (0,02 mol), Mg2+ (0,02mol), Ca2+ (0,04 mol), Cl- (0,02 mol),  (0,10 mol) và  (0,01 mol). Đun sôi cốc nước trên cho đến khi các phản ứng xảy ra hoàn toàn thì nước còn lại trong cốc
+
+133. A. Là nước mềm		B. Có tính cứng vĩnh cửa
+
+134. C. Có tính cứng toàn phần	D. Có tính cứng tạm thời
+
+135. Hướng dẫn giải
+
+136. Câu 1: Đáp án D
+
+137. Lỗi sai
+
+138. Câu 2: Đáp án B
+
+139. phản ứng hết
+
+140. Gọi
+
+141. lít
+
+142. Lỗi sai
+
+143. Câu 3: Đáp án B
+
+144. tạo muối BaCO3, OH- dư
+
+145. Lỗi sai
+
+146. Câu 4: Đáp án C
+
+147. Phản ứng tạo hỗn hợp 2 muối.
+
+148. Lỗi sai
+
+149. Câu 5: Đáp án A
+
+150. TH1 : Chỉ có Na phản ứng  + H2O
+
+151. TH2: Cả hai kim loại đều phản ứng
+
+152. Lỗi sai
+
+153. Câu 6: Đáp án B
+
+154. Mg ( ở điều kiện thường) :
+
+155. ở nhiệt độ cao :
+
+156. Lỗi sai
+
+157. Câu 7: Đáp án B
+
+158. Khối lượng Fe ban đầu  sau phản ứng Fe dư và muối trong dung dịch là muối sắt (II).
+
+159. Số mol Fe phản ứng
+
+160. Quá trình oxi hóa:		Qúa trình khử:
+
+161. ne nhường  nhận = 0,58 mol  sản phẩm khử còn có NH4NO3
+
+162. số mol e do N+5 nhận tạo ra NH4NO3 là
+
+163. Lỗi sai
+
+164. Câu 8: Đáp án B
+
+165. Ta thấy  Có muối amoni NH4NO3
+
+166. 0,09                0,18                 0,12    0,04
+
+167. Áp dụng định luật bảo toàn e ta có :
+
+168. Lỗi sai
+
+169. Câu 9: Đáp án B
+
+170. Nước cứng vĩnh cửu : Chứa ion
+
+171. Lỗi sai
+
+172. Câu 10: Đáp án B
+
+173. 0,1        →    0,05
+
+174. →Đun sôi cốc nước trên cho đến khi các phản ứng xảy ra hoàn toàn thì trong cốc còn  nên nước còn lại trong cốc là nước cứng vĩnh cửu.
+
+175. Lỗi sai

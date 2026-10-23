@@ -1,0 +1,388 @@
+NGUỒN: Phần 2 - Hoá học vô cơ - Chương 8 - Sắt (17 trang).doc
+Lưu ý: ĐÃ TRÍCH CHỮ - CÔNG THỨC ẢNH VÀ MATHTYPE CÓ THỂ THIẾU
+
+1. Phần 2. HÓA HỌC VÔ CƠ
+
+2. CHƯƠNG 8. SẮT
+
+3. 1. Sắt, oxit sắt + axit
+
+4. Nhầm lẫn sản phẩm F2+, Fe3+ khi cho sắt, oxit sắt tác dụng với axit
+
+5. Sắt tác dụng với axit
+
+6. Nếu Fe dư:
+
+7. Nếu Fe dư:
+
+8. Oxit sắt tác dụng với axit
+
+9. Với HCl, H2SO4 loãng:
+
+10. Lưu ý:
+
+11. Với HNO3, H2SO4 đặc, nóng:  + sản phẩm khử + H2O
+
+12. Lưu ý:
+
+13. 2. Sắt + phi kim
+
+14. Quên Fe tác dụng phi kim khi nào tạo thành Fe(II), khi nào tạo thàng sắt (III)
+
+15. Fe tác dụng phi kim có tính oxi hóa mạnh [Cl2; Br2] → sắt (III).
+
+16. Fe tác dụng phi kim có tính oxi hóa yếu (S) → sắt (II).
+
+17. 3. Nhiệt phân muối
+
+18. Nhẫm lần sản phẩm nhiệt phân muối và hidroxit sắt (II)
+
+19. Trong chân không:
+
+20. Trong không khí:
+
+21. Quên phản ứng FeCl2 +AgNO3 có tạo ra kết tủa Ag↓ và AgCl↓
+
+22. 4. Hợp chất chứa S
+
+23. Viết sai sản phẩm của phản ứng của FeS, FeS2 tác dụng với oxi trong không khí:
+
+24. Cho rằng FeS không phản ứng với axit loãng: HCl, H2SO4
+
+25. Không nhớ sản phẩm của phán ứng của FeS, FeS2 với HNO3 và H2SO4 đặc nóng:
+
+26. Lỗi cân bằng: Fes; FeS2 phản ứng H2SO4 đặc nóng và HNO3
+
+27. Tách FeS thành Fe2+ và S-2, FeS2 thành Fe2+ và S-2 để cân bằng
+
+28. Quên hệ số của S trong FeS2 khi cân bằng
+
+29. B. PHÂN TÍCH
+
+30. LỖI SAI 44 : sắt, oxit sắt tác dụng với axit
+
+31. Lý thuyết:
+
+32. Nhầm lẫn sản phẩm F2+, Fe3+ khi cho sắt, oxit sắt tác dụng với axit
+
+33. Sắt tác dụng với axit
+
+34. Nếu Fe dư:
+
+35. Nếu Fe dư:
+
+36. Oxit sắt tác dụng với axit
+
+37. Với HCl, H2SO4 loãng:
+
+38. Lưu ý:
+
+39. Với HNO3, H2SO4 đặc, nóng:  + sản phẩm khử + H2O
+
+40. Lưu ý:
+
+41. Ví dụ : Cho 6,72 gam Fe vào dung dịch chứa 0,3 mol H2SO4 đặc nóng (giả thiết SO2 là sản phẩm khử duy nhất). Sau phản ứng xảy ra hoàn toàn, thu được
+
+42. A. 0,03 mol Fe2(SO4)3 và 0,06 mol FeSO4
+
+43. B. 0,05 mol Fe2(SO4)3 và 0,02 mol Fe dư
+
+44. C. 0,06 mol Fe2(SO4)3
+
+45. D. 0,12 mol FeSO4.
+
+46. Hướng dẫn giải
+
+47. → dung dịch sau phản ứng:  Đáp án A
+
+48. Lỗi sai
+
+49. Thử thách bạn
+
+50. Câu 1: Cho 42,4 gam hồn hợp gồm Cu và F3O4 (có tỉ lệ số mol tương ứng là 3:1) tác dụng với dung dịch HCl dư, sau khi các phản ứng xảy ra hoàn toàn còn lại m gam chất rắn. Giá trị của m là
+
+51. A. 19,2	B. 9,6	C. 12,8	D. 6,4
+
+52. Câu 2: Thể tích dung dịch HNO3 1M (loãng) ít nhất cần dùng đề hòa tan hoàn toàn một hỗn hợp gồm 0,15 mol Fe và 0,15 mol Cu là (biết phản ứng tạo chất khử duy nhất là NO).
+
+53. A. 1,0 lít	B. 0,6 lít	C. 0,8 lít	D. 1,2 lít.
+
+54. Câu 3: Hoàn tan hoàn toàn hỗn hợp gồm 2,8 gam Fe và 1,6 gam Cu trong 500 ml dung dịch hỗn hợp HNO3 0,1M và HCl 0,4M, thu được khí NO (duy nhất) và dung dịch X, cho X vào dung dịch AgNO3 dư, thu được m gam chất rắn. Biết các phản ứng đầu xảy ra hoàn toàn, NO là sản phẩm khử duy nhất của N+5 trong các phản ứng. Giá trị của m là?
+
+55. A. 31,40	B. 30,05	C. 34,10	D. 28,70
+
+56. LỖI SAI 45: Sắt tác dụng phi kim
+
+57. Lý thuyết:
+
+58. Quên Fe tác dụng phi kim khi nào tạo thành Fe(II), khi nào tạo thàng sắt (III)
+
+59. Fe tác dụng phi kim có tính oxi hóa mạnh [Cl2; Br2] → sắt (III).
+
+60. Fe tác dụng phi kim có tính oxi hóa yếu (S) → sắt (II).
+
+61. Ví dụ : Thực hiện các thí nghiệm sau:
+
+62. Đốt dây sắt trong khí clo.
+
+63. Đốt nóng hỗn hợp bột Fe và S (trong điều kiện không có oxi).
+
+64. Cho FeO vào dung dịch HNO3 (loãng, dư).
+
+65. Cho Fe vào dung dịch Fe2(SO4)3.
+
+66. Cho Fe vào dung dịch H2SO4 (loãng , dư).
+
+67. Đốt dây sắt trong khí oxi.
+
+68. Số thí nghiệm chỉ tạo ra hợp chất sắt (II) là:
+
+69. A. 2	B. 1	C. 4	D. 3
+
+70. Hướng dẫn giải
+
+71. Có 3 thí nghiệm tạo ra hợp chất sắt (II): (2), (4), (5).
+
+72. → Đáp án D.
+
+73. Lỗi sai
+
+74. Thử thách bạn
+
+75. Câu 4: Cho 6,72 lít clo (đktc) tác dụng với 16,8 gam Fe nung nóng. Lấy chất rắn thu được hòa vào nước và khuấy đều thì khối lượng muối trong dung dịch thu được là:
+
+76. A. 38,10 gam	B. 48,75 gam	C. 32,50 gam	D. 25,40 gam
+
+77. Câu 5: cho 16,8 gam Fe nung nóng hoàn toàn trong V lít khí oxi (đktc) thu được một oxit sắt, cho oxit sắt này tác dụng với dung dịch HNO3 loãng thu được dung dịch Y, cô cạn dung dịch Y thu được m gam muối.Giá trị của V và m lần lượt là
+
+78. A. 3,36 và 72,6	B. 4,48 và 72,6	C. 5,04 và 54	D. 4,48 và 199,2
+
+79. LỖI SAI 46: Hợp chất của sắt (II)
+
+80. Lý thuyết :
+
+81. Nhẫm lần sản phẩm nhiệt phân muối và hidroxit sắt (II)
+
+82. Trong chân không:
+
+83. Trong không khí:
+
+84. Quên phản ứng FeCl2 + AgNO3 có tạo ra kết tủa Ag↓ và AgCl↓
+
+85. Ví dụ : Hòa tan hoàn toàn  24,4 gam hỗn hợp gồm FeCl2 và NaCl (có tỉ lệ mol tương ứng là 1 :2) vào một lượng nước (dư), thu được dung dịch X. Cho dung dịch AgNO3 (dư) vào dung dịch X, sau khi phản ứng xảy ra hoàn toàn sinh ra m gam chất rắn. Giá trị của m là
+
+86. A. 57,4	B. 28,7	C. 10.8	D. 68,2
+
+87. Hướng dẫn giải
+
+88. Ta có :
+
+89. →  Đáp án D
+
+90. Lỗi sai
+
+91. Thử thách bạn
+
+92. Câu 6: Đốt chyas 4,16 gam hỗn hợp gồm Mg và Fe trong khí O2 thu được 5,92 gam hỗn hợp X chỉ gồm các oxit. Hòa tan hoàn toàn X trong dung dịch HCl vừa đủ, thu được dung dịch Y. Cho dung dịch NaOH dư vào Y, thu được kết tủa Z. Nung Z trong không khí đến khối lượng không đổi, thu được 6 gam chất rắn. Mặt kahcs do Y tác dụng với dung dịch AgNO3 dư, thu được m gam kết tủa. Giá trị của m là
+
+93. A. 10,80	B. 32,11	C. 32,65	D. 31,57
+
+94. Câu 7: Thực hiện các thí nghiệm sau
+
+95. Nhiệt phân Fe(NO3)2 trong không khí
+
+96. Nhiệt phân Fe(OH)2 trong chân không
+
+97. Nhiệt phân FeCO3 trong không khí
+
+98. Nhiệt phân Fe(OH)3
+
+99. Nung FeS2 trong không khí.
+
+100. Số thí nghiệm tạo ra oxit sắt (III) là
+
+101. A. 2	B. 3	C. 4	D. 5
+
+102. LỖI SAI 47: Hợp chất chứa lưu huỳnh của sắt : FeS, FeS2
+
+103. Lý thuyết:
+
+104. Viết sai sản phẩm của phản ứng của FeS, FeS2 tác dụng với oxi trong không khí:
+
+105. Cho rằng FeS không phản ứng với axit loãng: HCl, H2SO4
+
+106. Không nhớ sản phẩm của phán ứng của FeS, FeS2 với HNO3 và H2SO4 đặc nóng:
+
+107. Lỗi cân bằng: Fes; FeS2 phản ứng H2SO4 đặc nóng và HNO3
+
+108. Tách FeS thành Fe2+ và S-2, FeS2 thành Fe2+ và S-2 để cân bằng
+
+109. Quên hệ số của S trong FeS2 khi cân bằng
+
+110. Ví dụ : Nung m gam hỗn hợp X gồm FeS và FeS2 trong một hình không khí (gồm 20% thể tích O2 và 80% thể tích N2) đến khi các phản ứng xảy ra hoàn toàn, thu được một chất rắn duy nhất và hỗn hợp khí Y có thành phần thể tích : 84,8% N2, 14% SO2, còn lại là O2. Phần trăm khối lượng của FeS trong hỗn hợp X là?
+
+111. A. 68,75%	B. 78.57%	C. 46,43%	D. 19,64%
+
+112. Hướng dẫn giải
+
+113. Lấy 100 mol khí sau phản ứng
+
+114. Hệ phương trình :
+
+115. → Đáp án D
+
+116. Lỗi sai
+
+117. Thử thách bạn
+
+118. Câu 8: Trộn 22,4 gam bột Fe với 9,6 gam bột S rồi nung trong điều kiện không có không khí đến khi phản ứng hoàn toàn thu được chất rắn X. Hòa tan X bằng dung dịch H2SO4 loãng dư thu được khí Y. Đốt cháy hoàn toàn Y cần V lít O2 (đktc). Giá trị của V là
+
+119. A. 1,12	B. 11,20	C. 10,08	D. 7,84
+
+120. Câu 9: Hòa tan hoàn toàn hỗn hợp gồm 0,12 mol FeS2 và a mol Cu2S vào axit HNO3 (vừa đủ), thu được dung dịch X (chỉ chứa hai muối sunfat) và khí duy nhất NO. Giá trị của a là
+
+121. A. 0,075	B. 0,12	C. 0,06	D. 0,04
+
+122. Câu 10: Cho phản ứng:
+
+123. Tổng hệ số (nguyên, tối giản) của tất cả các chất trong phương trình hóa học của phản ứng trên là
+
+124. A. 19	B. 57	C. 39	D. 14
+
+125. Hướng dẫn giải
+
+126. Câu 1: Đáp án C
+
+127. Gọi
+
+128. Ta có:
+
+129. → Đáp án C
+
+130. Lỗi sai
+
+131. Câu 2: Đáp án C
+
+132. Thể tích HNO3 cần dùng là ít nhất nên chỉ tạo thành muối sắt (II), tức một lượng Fe và Cu đã khử hết Fe(III) thành Fe(II)
+
+133. ;			;
+
+134. Bảo toàn e:
+
+135. → Đáp án C
+
+136. Lỗi sai
+
+137. Câu 3: Đáp án B
+
+138. Cách 1:
+
+139. Vì sau phản ứng thu được dung dịch X và khí NO → Fe và Cu tan hết
+
+140. Quá trình cho – nhận e:
+
+141. ;	  ;
+
+142. Bảo toàn e ta có:
+
+143. → dung dịch X chưa :
+
+144. Khi cho AgNO3 dư vào X:
+
+145. Ban đầu:   0,05               0,05
+
+146. Phản ứng: 0,0375       0,05
+
+147. Sau pứ:     0,0125               0
+
+148. Phần 2:
+
+149. Xét toàn bộ hệ phản ứng:  dư vì AgNO3 dư.
+
+150. Bảo taonf e
+
+151. → Đáp án B
+
+152. Lỗi sai
+
+153. Câu 4: Đáp án A
+
+154. → Chất rắn chứa:
+
+155. Trong dung dịch :
+
+156. → Muối thu được là FeCl2
+
+157. Đáp án A.
+
+158. Lỗi sai
+
+159. Câu5: Đáp án B
+
+160. Ta có:
+
+161. Bảo toàn nguyên tố sắt:
+
+162. → Đáp án B
+
+163. Lỗi sai
+
+164. Câu 6: Đáp án C
+
+165. Ta có hệ phương trình:
+
+166. Bảo toàn electron:
+
+167. → Đáp án C
+
+168. Lỗi sai
+
+169. Câu 7: Đáp án C
+
+170. Phương trình hóa học:
+
+171. → có 4 thí nghiệm tạo ra oxit sắt (III)
+
+172. → Đáp án C
+
+173. Lỗi sai
+
+174. Câu 8: Đáp án B
+
+175. Cách 1:
+
+176. →Chất rắn X gồm: 0,3 mol FeS và 0,1 mol Fe dư
+
+177. →
+
+178. Cách 2:
+
+179. Bảo toàn electron:
+
+180. → Đáp án B
+
+181. Lỗi sai
+
+182. Câu 9: Đáp án C
+
+183. Cách 1:
+
+184. Bảo toàn nguyên tố S:
+
+185. Cách 2:
+
+186. Định luật bảo toàn điện tích:
+
+187. → Đáp án C
+
+188. Lỗi sai
+
+189. Câu 10: Đáp án A
+
+190. HNO3 có tính oxit háo mạnh sẽ đưa các nguyên tố phản ứng với nó lên số oxi hóa cao nhất.
+
+191. → Tổng hệ số ( nguyên, tối giản) của tất cả các chất trong phản ứng  trên bằng 19
+
+192. → Đáp án A
+
+193. Lỗi sai

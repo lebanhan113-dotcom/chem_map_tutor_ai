@@ -1,0 +1,172 @@
+NGUỒN: Phần 2 - Hoá học vô cơ - Chương 2 Phản ứng Oxi hóa - khử (7 trang).doc
+Lưu ý: ĐÃ TRÍCH CHỮ - CÔNG THỨC ẢNH VÀ MATHTYPE CÓ THỂ THIẾU
+
+1. Phần 2. HÓA HỌC VÔ CƠ
+
+2. CHƯƠNG 2. PHẢN ỨNG OXI HÓA – KHỬ
+
+3. 1. Khái niệm
+
+4. Nhầm lẫn giữa các khái niệm
+
+5. Phản ứng oxi hóa – khử là phản ứng hóa học trong đó có sự chuyển electron hoàn toàn giữa các chất phản ứng
+
+6. Hay: phản ứng oxi hóa – khử là phản ứng hóa học trong đó có sự thay đổi số oxi hóa của một số nguyên tố.
+
+7. Chất oxi hóa (chất bị khử) là chất nhận electron hay là chất có số oxi hóa giảm sau phản ứng và tham gia quá trình khử (sự khử).
+
+8. Chất khử (chất bị oxi hóa) là chất nhường electron hay là chất có số oxi hóa tăng sau phản ứng và tham gia quá trình oxi hóa (sự oxi hóa).
+
+9. 2. Chất vừa có tính oxi hóa, vừa có tính khử là
+
+10. Chất chứa nguyên tử có số oxi hóa trung gian
+
+11. Ví dụ: Fe2+, S, N2, Mn2+,…
+
+12. Hoặc trong chất đó có hai thành phần, một thành phần có tính oxi hóa, một thành phần có tính khử.
+
+13. Ví dụ: 	FeCl3 (Fe3+ là chất oxi hóa, Cl- là chất khử)
+
+14. HCl (H+ là chất oxi hóa, Cl- là chất khử) ,…
+
+15. 3. Hệ số cân bằng
+
+16. Quên nhân chỉ số
+
+17. Bỏ sót nguyên tử nguyên tố ở các hợp chất → số nguyên tử nguyên tố ở hai vế phương trình không bằng nhau
+
+18. Xác định sai số oxi hóa của các nguyên tố → số electron nhường, nhận sai
+
+19. Chất tác dụng với axit thường cân bằng axit trước→ sai
+
+20. B. PHÂN TÍCH
+
+21. LỖI SAI 16: KHÁI NIỆM
+
+22. Ví dụ 1: Cho các phản ứng:
+
+23. Số phản ứng oxi hóa khử là
+
+24. A. 5	B. 2	C. 3	D. 4
+
+25. Hướng dẫn giải
+
+26. → Đáp án D
+
+27. Lỗi sai
+
+28. Thử thách bạn
+
+29. Câu 1: Nung nóng từng cặp chất sau trong bình kín: (1) Fe + S(r), (2) Fe2O3 + CO(k), (3) Au + O2(k), (4) Cu + Cu(NO3)2(r), (5) Cu + KNO3(r), (6) Al + NaCl(r). Các trường hợp xảy ra phản ứng oxi hóa kim loại là:
+
+30. A. (1), (2), (6).	B. (2), (3), (5).	C. (1), (2), (4).	D. (1), (4), (5).
+
+31. Câu 2: Cho từng chất: Fe, FeO, Fe(OH)2, Fe(OH)3, Fe3O4, Fe2O3, Fe(NO3)2, Fe(NO3)3, FeSO4, Fe(SO4)3, FeCO3 lần lượt phản ứng với HNO3 đặc, nóng. Số phản ứng thuộc loại phản ứng oxi hóa-khử là
+
+32. A. 5.	B. 7.	C. 6.	D. 8.
+
+33. Câu 3: Cho phản ứng hóa học: Fe + CuSO4 → FeSO4 +Cu↓
+
+34. Trong phản ứng trên xảy ra
+
+35. A. Sự khử Fe2+ và sự oxi hóa Cu	B. Sự khử Fe2+ và sự khử Cu2+			C. Sự oxi hóa Fe và sự oxi hóa Cu	D. Sự oxi hóa Fe và sự khử Cu2+
+
+36. LỖI SAI 17: CHẤT VỪA CÓ TÍNH OXI HÓA, VỪA CÓ TÍNH KHỬ
+
+37. Ví dụ 1: Cho dãy gồm các phân tử và ion: Zn, S, FeO, SO2, Fe2+, Cu2+, HCl. Tổng số phân tử và ion trong dãy vừa có tính oxi hóa, vừa có tính khử là
+
+38. A. 5	B. 6	C. 7	D. 4
+
+39. Hướng dẫn giải
+
+40. Các chất và ion vừa có tính oxi hóa, vừa có tính khử là các chất vừa có khả năng cho e vừa có khả năng nhận e, tức là chất có số oxi hóa trung gian hoặc có hai thành phần khác nhaucos thể oxi hóa và khử (Ví dụ: HCl…)
+
+41. →Đáp án A
+
+42. Lỗi sai
+
+43. Thử thách bạn
+
+44. Câu 4: Trong các chất: FeCl2, FeCl3, Fe(NO3)2, Fe(NO3)3, FeSO4, Fe2(FO4)3. Số chất có cả tính oxi hóa và tính khử là
+
+45. A. 2	B. 3	C. 5	D. 4
+
+46. LỖI SAI 18: HỆ SỐ CÂN BẰNG
+
+47. Ví dụ 1: Cho phương trình hóa học
+
+48. Tỉ lệ a : b là
+
+49. A. 1 : 2	B. 1 : 3	C. 1 : 1	D. 2 : 3
+
+50. Hướng dẫn giải
+
+51. →a:b=2:6=1:3
+
+52. →Đáp án B
+
+53. Lỗi sai
+
+54. Thử thách bạn
+
+55. Câu 5: Cho phương trình hóa học:
+
+56. Sau khi cân bằng phương trình hóa học trên với hệ số của các chất là nhưng số nguyên, tối giản thì hệ số của HNO3 là
+
+57. A. 48x – 18y	B. 46x – 18y	C. 45x – 18y	D. 16x – 6y
+
+58. Câu 6: Cho phản ứng hóa học:
+
+59. Tỉ lệ giữa số nguyên tử clo đóng vai trò chất oxi hóa và số nguyên tử clo đóng vai trò chất khử trong phương trình hóa học của phản ứng đã cho tương ứng là
+
+60. A. 1 : 5	B. 5 : 1	C. 3 : 1	D. 1 : 3
+
+61. Hướng dẫn giải
+
+62. Câu 1: Đáp án D
+
+63. Phản ứng xảy ra oxi hóa kim loại tức là kim loại thể hiện tính khử trong phản ứng đó.
+
+64. →Có 3 trường hợp xảy ra phản ứng oxi hóa kim loại là (1), (4), (5)
+
+65. Lỗi sai
+
+66. Câu 2: Đáp án B
+
+67. Phản ứng có sự tham gia của các chất mà trong đó Fe chưa đạt được đến số oxi hóa cao nhất (+3) khi tác dụng với HNO3 đặc, nóng là phản ứng oxi hóa-khử.
+
+68. Vậy các chất là:
+
+69. Lỗi sai
+
+70. Câu 3: Đáp án D
+
+71. Sự oxi hóa:
+
+72. →Fe là chất khử (chất bị oxi hóa) và tham gia quá trình oxi hóa / sự oxi hóa
+
+73. Sự khư:
+
+74. →Cu+2 là chất oxi hóa (chất bị khử) và tham gia quá trình khử / sự khử
+
+75. Lỗi sai
+
+76. Câu 4: Đáp án C
+
+77. Các chất có chứa sắt mà trong đó sắt có số oxi hóa (+2) thì vừa có tính oxi hóa, vừa có tính khử.
+
+78. → Các chất gồm FeCl2, Fe(NO3)2, FeSO4
+
+79. Các chất có một thành phần nào đó có tính oxi hóa, thành phần còn lại có tính khử.
+
+80. →Có 5 chất vừa có tính oxi hóa, vừa có tính khử
+
+81. Lỗi sai
+
+82. Câu 5: Đáp án B
+
+83. Lỗi sai
+
+84. Câu 6: Đáp án B
+
+85. Lỗi sai
